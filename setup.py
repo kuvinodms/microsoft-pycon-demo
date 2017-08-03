@@ -23,7 +23,7 @@ setup(
     version=VERSION,
     description="Python wrapper around some of the VSTS APIs",
     author_email="kuvinod@microsoft.com",
-    url="https://github.com/microsoft/vsts-cd-manager-demo",
+    url="https://github.com/kuvinodms/vsts-cd-manager-demo",
     keywords=["Microsoft", "VSTS", "Team Services", "SDK", "AzureTfs"],
     install_requires=REQUIRES,
     packages=find_packages(),
