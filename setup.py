@@ -6,7 +6,7 @@
 
 from setuptools import setup, find_packages
 
-NAME = "vsts-cd-manager"
+NAME = "vsts-cd-manager-demo"
 VERSION = "0.118.0"
 
 # To install the library, run the following
@@ -22,8 +22,8 @@ setup(
     name=NAME,
     version=VERSION,
     description="Python wrapper around some of the VSTS APIs",
-    author_email="jpricket@microsoft.com",
-    url="https://github.com/microsoft/vsts-cd-manager",
+    author_email="kuvinod@microsoft.com",
+    url="https://github.com/microsoft/vsts-cd-manager-demo",
     keywords=["Microsoft", "VSTS", "Team Services", "SDK", "AzureTfs"],
     install_requires=REQUIRES,
     packages=find_packages(),
