@@ -1,3 +1,5 @@
+echo hahahahaha
+
 pip install wheel
 pip install twine
 
