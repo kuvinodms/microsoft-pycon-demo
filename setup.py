@@ -6,8 +6,8 @@
 
 from setuptools import setup, find_packages
 
-NAME = "vsts-cd-manager-demo"
-VERSION = "0.185.0"
+NAME = "vsts-cd-manager-demo2"
+VERSION = "0.1.0"
 
 # To install the library, run the following
 #
