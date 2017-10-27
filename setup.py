@@ -7,7 +7,7 @@
 from setuptools import setup, find_packages
 
 NAME = "vsts-cd-manager-demo-retro"
-VERSION = "4.0.14"
+VERSION = "4.0.15"
 
 # To install the library, run the following
 #
