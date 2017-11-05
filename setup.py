@@ -6,8 +6,8 @@
 
 from setuptools import setup, find_packages
 
-NAME = "microsoft-pycon-demo-1"
-VERSION = "0.0.0"
+NAME = "microsoft-pycon-demo"
+VERSION = "0.0.1"
 
 # To install the library, run the following
 #
