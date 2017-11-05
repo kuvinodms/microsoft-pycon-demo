@@ -6,8 +6,8 @@
 
 from setuptools import setup, find_packages
 
-NAME = "vsts-cd-manager-demo-retro1"
-VERSION = "4.0.17"
+NAME = "microsoft-pycon-demo"
+VERSION = "0.0.0"
 
 # To install the library, run the following
 #
