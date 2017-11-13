@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 NAME = "pypi-task-demo"
-VERSION = "0.0.0"
+VERSION = "0.0.1"
 
 REQUIRES = ["msrest>=0.2.0", 'mock']
 
